@@ -1,0 +1,11 @@
+// fonts lokal integrieren
+@import "fonts";
+
+//BS Var setzen
+@import "overwrite";
+
+//BS importieren
+@import "../b-scss/bootstrap.scss";
+
+//eigene Styles hinzufügen
+@import "addstyles";
